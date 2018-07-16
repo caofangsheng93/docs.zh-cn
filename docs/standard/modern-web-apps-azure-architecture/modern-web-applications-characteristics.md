@@ -1,5 +1,5 @@
 ---
-title: 新式 Web 应用程序的特征
+title: 现代 Web 应用程序的特征
 description: 使用 ASP.NET Core 和 Azure 构建新式 Web 应用程序 | 新式 Web 应用程序的特征
 author: ardalis
 ms.author: wiwagn
